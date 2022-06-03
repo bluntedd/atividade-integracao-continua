@@ -4,6 +4,8 @@ const math = require('./math');
 
 const operacoes = ['','+','-','*', '/'];
 
+1919
+
 let opcao;
 let resultado = 0;
 let numero;
